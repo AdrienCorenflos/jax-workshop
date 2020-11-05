@@ -36,12 +36,14 @@ mystical effects) instead.
 
 ## Workshop organisation
 
-As a consequence, this workshop will be split into three independent streams that will be subdivided into three 
+As a consequence, this workshop will be split into independent streams that will be subdivided into three 
 different levels from beginner to advanced, which we will try and combine together at the end of the session.
 
 The three different streams will be the following: randomness, controlflow and differentiability.
 
 ### Randomness
+
+### Parallelization/Vectorization
 
 ### Controlflow
 
