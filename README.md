@@ -61,7 +61,7 @@ and how JAX implements the solution to this problem. We will also take a look at
 attention to.
 
 ### Differentiability
-And of course finally, JAX wouldn't be an automatic differentiation (AD) library if there was not differentiation involved. 
+And of course finally, JAX wouldn't be an automatic differentiation (AD) library if there was no differentiation involved. 
 The differentiability notebooks will present the two main implementations of AD (forward-mode and reverse-mode), 
 how to use gradients in JAX and how to implement your own custom gradients (and when it's needed). 
 
