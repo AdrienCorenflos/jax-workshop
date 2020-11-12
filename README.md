@@ -67,5 +67,7 @@ how to use gradients in JAX and how to implement your own custom gradients (and 
 
 
 ## Notes
-Whilst some effort has been put into making all this material somewhat self-contained, some basic familiarity with 
+- Whilst some effort has been put into making all this material somewhat self-contained, some basic familiarity with 
 [NumPy](https://numpy.org/) and to a lesser extent [SciPy](https://www.scipy.org/) is recommended if not expected.
+- This workshop has been run with JAX v0.2.5 and JAXLIB v0.1.56 (cpu and gpu). 
+It will probably not be updated in the future.
