@@ -1,7 +1,6 @@
 
 
 # JAX-workshop
-11 November 2020 - Aalto University
 
 ## Introduction
 
